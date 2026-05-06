@@ -44,10 +44,8 @@
               "RelativeDocumentMoniker": "Python\\mysite\\polls\\admin.py",
               "ToolTip": "F:\\GIt - STUDIA\\Python\\mysite\\polls\\admin.py",
               "RelativeToolTip": "Python\\mysite\\polls\\admin.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-22T13:46:43.334Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-22T13:46:43.334Z"
             },
             {
               "$type": "Document",
@@ -58,9 +56,8 @@
               "ToolTip": "F:\\GIt - STUDIA\\Python\\mysite\\polls\\models.py",
               "RelativeToolTip": "Python\\mysite\\polls\\models.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-22T13:41:47.888Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-22T13:41:47.888Z"
             },
             {
               "$type": "Document",
@@ -71,9 +68,8 @@
               "ToolTip": "F:\\GIt - STUDIA\\Python\\mysite\\mysite\\settings.py",
               "RelativeToolTip": "Python\\mysite\\mysite\\settings.py",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-22T13:38:46.921Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-22T13:38:46.921Z"
             },
             {
               "$type": "Document",
@@ -84,9 +80,8 @@
               "ToolTip": "F:\\GIt - STUDIA\\Python\\mysite\\mysite\\urls.py",
               "RelativeToolTip": "Python\\mysite\\mysite\\urls.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-18T16:11:31.628Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-18T16:11:31.628Z"
             },
             {
               "$type": "Document",
@@ -97,7 +92,7 @@
               "ToolTip": "F:\\GIt - STUDIA\\Python\\mysite\\polls\\urls.py",
               "RelativeToolTip": "Python\\mysite\\polls\\urls.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-03-18T16:07:53.735Z"
             },
             {
@@ -109,8 +104,12 @@
               "ToolTip": "F:\\GIt - STUDIA\\Python\\mysite\\polls\\views.py",
               "RelativeToolTip": "Python\\mysite\\polls\\views.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-03-18T16:02:46.64Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

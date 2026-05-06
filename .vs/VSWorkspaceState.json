@@ -2,10 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\Python",
-    "\\Python\\mysite",
-    "\\Python\\mysite\\mysite",
-    "\\Python\\mysite\\polls"
+    "\\Python\\mysite"
   ],
-  "SelectedNode": "\\Python\\mysite\\polls\\admin.py",
   "PreviewInSolutionExplorer": false
 }
