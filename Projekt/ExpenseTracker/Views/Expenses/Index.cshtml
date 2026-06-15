@@ -1,13 +1,16 @@
 ﻿@model IEnumerable<ExpenseTracker.Models.Expense>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "ExpenseTracke";
 }
 
-<h1>Index</h1>
+<h1>ExpenseTracker</h1>
+<p class="text-muted">
+    Manage your expenses and track your spending.
+</p>
 
 <p>
-    <a asp-action="Create" class="btn btn-primary">Create New</a>
+    <a asp-action="Create" class="btn btn-primary">Add Expense</a>
 </p>
 
 <form method="get">
