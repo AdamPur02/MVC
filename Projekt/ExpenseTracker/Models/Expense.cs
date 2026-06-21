@@ -11,6 +11,11 @@ namespace ExpenseTracker.Models
         [Display(Name = "Category")]
         public string Category { get; set; } = string.Empty;
 
+        [Required(ErrorMessage = "Description is required.")]
+        [StringLength(200, ErrorMessage = "Description cannot exceed 200 characters.")]
+        [Display(Name = "Description")]
+        public string Description { get; set; } = string.Empty;
+
         [Required(ErrorMessage = "Amount is required.")]
         [Range(0.01, 1000000, ErrorMessage = "Amount must be greater than 0.")]
         [Display(Name = "Amount")]

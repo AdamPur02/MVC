@@ -65,7 +65,7 @@ namespace ExpenseTracker.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Category,Amount,Date")] Expense expense)
+        public async Task<IActionResult> Create([Bind("Id,Category,Description,Amount,Date")] Expense expense)
         {
             if (ModelState.IsValid)
             {
@@ -95,7 +95,7 @@ namespace ExpenseTracker.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Category,Amount,Date")] Expense expense)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Category,Description,Amount,Date")] Expense expense)
         {
             if (id != expense.Id)
             {
